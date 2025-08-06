@@ -40,7 +40,7 @@ function itemsConstructor(productid,name,Quantity,Price) {
 let post2 = new itemsConstructor("P-9009","Beef",12,360000);
 
 
-//Adding new item bought
+//Adding new item boughtb
 items.name = "Beef";
 
 //Updating the transactionid
@@ -55,7 +55,7 @@ orderTotal.Amount = 17;
 let JSONconvert = items(JSON.stringify);
 console.log(JSONconvert);
 
-// Demonstrating conversion of JSON back to object
+// Demonstrating conversion of JS1ON back to object
 
 let Objectconvert = JSONconvert(JSON.parse);
 console.log(Objectconvert);
