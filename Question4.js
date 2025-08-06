@@ -1,3 +1,3 @@
 for ( i = 1; 1 <= 20 ; 1++){
-    let multiply 
+    let multiply  = i.
 }
